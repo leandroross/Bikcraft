@@ -24,3 +24,7 @@
 
 /*Seguros*/
 @import url("./seguros/seguros.css");
+
+
+/*Footer*/
+@import url("./global/footer.css");
